@@ -4,7 +4,16 @@
 
 ## This is an `<h2>` header
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ### This is an `<h3>` header
+
+``` javascript
+var myVar = "Hello, world!";
+```
 
 #### This is an `<h4>` header
 
